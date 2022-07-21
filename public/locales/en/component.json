@@ -1,0 +1,14 @@
+{
+    "label1": "Get up in the morning",
+    "description1": "Get up in the morning, make coffee, have breakfast. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "label2": "Work",
+    "description2": "Lorem ipsum generator really saved me. I didn't enjoy writing. But it doesn't matter now",
+    "label3": "Fly a kite",
+    "description3": "The plan of all plans.",
+    "back": "back",
+    "next": "next",
+    "finish": "finish",
+    "lastStep": "almost done",
+    "thatsAll": "That's all, thanks!",
+    "snckBar": "That was the experience with a component called a Stepper."
+}

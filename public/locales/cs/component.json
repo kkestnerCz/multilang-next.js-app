@@ -1,0 +1,14 @@
+{
+    "label1": "Ráno vstát",
+    "description1": "Ráno vstát, udělat si kafe, Nasnídat se. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "label2": "Pracovat",
+    "description2": "Lorem ipsum generátor mě fakt zachránil. Nebavilo mě psát. Teď už je to ale jedno",
+    "label3": "Pouštět draka",
+    "description3": "Plán všech plánů.",
+    "back": "zpátky",
+    "next": "dál",
+    "finish": "konec",
+    "lastStep": "skoro hotovo",
+    "thatsAll": "To je všechno, dík!",
+    "snckBar": "To byl zážitek s komponentou, která se jmenuje stepper."
+}
